@@ -98,7 +98,7 @@ export default function Portfolio() {
       live: "https://recipefindertask.netlify.app/",
       image: "/recipe.png?height=200&width=300",
       gradient: "from-purple-600 via-pink-600 to-blue-600",
-      featured: false,
+      featured: true,
     },
     {
       title: "Customer Support Chatbot",
@@ -109,7 +109,7 @@ export default function Portfolio() {
       live: "https://customersupportchatbot.netlify.app/",
       image: "/bot.png?height=300&width=400",
       gradient: "from-green-500 via-teal-500 to-blue-500",
-      featured: false,
+      featured: true,
     },
     {
       title: "Sustainability Platform",
@@ -120,7 +120,7 @@ export default function Portfolio() {
       live: "https://sustainabilityecotips.netlify.app/",
       image: "/eco.png?height=300&width=400",
       gradient: "from-orange-500 via-red-500 to-pink-500",
-      featured: false,
+      featured: true,
     },
     {
       title: "Kanban Task Manager",
@@ -131,7 +131,7 @@ export default function Portfolio() {
       live: "https://girlytaskboard.netlify.app/",
       image: "/task.png?height=300&width=400",
       gradient: "from-indigo-500 via-purple-500 to-pink-500",
-      featured: false,
+      featured: true,
     },
   ]
 
